@@ -2,7 +2,7 @@
 
 A beautiful, responsive calendar application built with React that displays events and handles scheduling conflicts.
 
-## 🌟 Features
+## Features
 
 - **Monthly Calendar View**: Clean grid layout showing all dates of the month
 - **Navigation**: Easy month navigation with previous/next buttons  
