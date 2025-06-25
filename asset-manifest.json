@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PRATHI1504/React-calendar/static/css/main.8e09d04f.css",
+    "main.js": "/PRATHI1504/React-calendar/static/js/main.c2e1ed31.js",
+    "index.html": "/PRATHI1504/React-calendar/index.html",
+    "main.8e09d04f.css.map": "/PRATHI1504/React-calendar/static/css/main.8e09d04f.css.map",
+    "main.c2e1ed31.js.map": "/PRATHI1504/React-calendar/static/js/main.c2e1ed31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e09d04f.css",
+    "static/js/main.c2e1ed31.js"
+  ]
+}

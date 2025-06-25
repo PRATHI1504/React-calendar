@@ -1,0 +1,157 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Team Meeting",
+      "date": "2025-10-25",
+      "time": "10:00",
+      "duration": 60,
+      "description": "Weekly team meeting",
+      "type": "work"
+    },
+    {
+      "id": 2,
+      "title": "Doctor Appointment",
+      "date": "2025-06-26",
+      "time": "14:30",
+      "duration": 30,
+      "description": "Regular checkup",
+      "type": "personal"
+    },
+    {
+      "id": 3,
+      "title": "Project Deadline",
+      "date": "2025-07-30",
+      "time": "17:00",
+      "duration": 0,
+      "description": "Submit final project",
+      "type": "work"
+    },
+    {
+      "id": 4,
+      "title": "Assignment Deadline",
+      "date": "2025-06-25",
+      "time": "12:00",
+      "duration": 90,
+      "description": "SurveySparrow Assignment Deadline",
+      "type": "personal"
+    },
+    {
+      "id": 5,
+      "title": "Presentation",
+      "date": "2025-08-25",
+      "time": "10:30",
+      "duration": 45,
+      "description": "Project presentation",
+      "type": "work"
+    },
+    {
+      "id": 6,
+      "title": "Gym Session",
+      "date": "2025-06-27",
+      "time": "07:00",
+      "duration": 60,
+      "description": "Morning workout",
+      "type": "personal"
+    },
+    {
+      "id": 7,
+      "title": "Birthday Celebration",
+      "date": "2025-09-28",
+      "time": "19:00",
+      "duration": 180,
+      "description": "Evening celebration",
+      "type": "social"
+    },
+    {
+      "id": 8,
+      "title": "Conference Call",
+      "date": "2025-06-29",
+      "time": "09:00",
+      "duration": 120,
+      "description": "Client meeting",
+      "type": "work"
+    },
+    {
+      "id": 9,
+      "title": "Shopping",
+      "date": "2025-07-01",
+      "time": "16:00",
+      "duration": 45,
+      "description": "Weekly shopping",
+      "type": "personal"
+    },
+    {
+      "id": 10,
+      "title": "Movie Night",
+      "date": "2025-07-02",
+      "time": "20:00",
+      "duration": 150,
+      "description": "Watch a new release",
+      "type": "social"
+    },
+    {
+      "id": 11,
+      "title": "Assignment Deadline",
+      "date": "2025-09-25",
+      "time": "11:59",
+      "duration": 60,
+      "description": "Submit assignment",
+      "type": "work"
+    },
+    {
+      "id": 12,
+      "title": "Second Project Deadline",
+      "date": "2025-07-02",
+      "time": "06:00",
+      "duration": 60,
+      "description": "Final project deadline",
+      "type": "work"
+    },
+    {
+      "id": 13,
+      "title": "My Birthday!!",
+      "date": "2025-11-15",
+      "time": "00:00",
+      "duration": 1440,
+      "description": "Celebrate birthday",
+      "type": "personal"
+    },
+    {
+      "id": 14,
+      "title": "Hackathon",
+      "date": "2025-07-05",
+      "time": "09:00",
+      "duration": 480,
+      "description": "24-hour coding event",
+      "type": "work"
+    },
+    {
+      "id": 15,
+      "title": "Dentist Appointment",
+      "date": "2025-10-03",
+      "time": "15:00",
+      "duration": 30,
+      "description": "Routine checkup",
+      "type": "personal"
+    },
+    {
+      "id": 16,
+      "title": "Office Townhall",
+      "date": "2025-09-01",
+      "time": "10:00",
+      "duration": 60,
+      "description": "Monthly announcements",
+      "type": "work"
+    },
+    {
+      "id": 17,
+      "title": "Evening Meetup",
+      "date": "2025-08-06",
+      "time": "18:00",
+      "duration": 180,
+      "description": "Social gathering",
+      "type": "social"
+    }
+  ]
+}
